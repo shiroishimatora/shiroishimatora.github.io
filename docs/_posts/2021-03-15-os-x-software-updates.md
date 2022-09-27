@@ -5,9 +5,10 @@ title:  "Software Updates for older versions of Mac OS X"
 Updates for Mac OS X were automatically downloaded and installed through Software Update. However, in mid-2014, Apple shut down the servers that ran Software Update for versions of Mac OS X prior to Mac OS X 10.4 Tiger. Some time ago, I researched and archived software updates for every version of Mac OS X I could find in order to keep my Mac collection up-to-date. Here's a list of those updates and some newer ones in case Apple decommissions those servers as well:
 ### Mac OS X 10.0 Cheetah
 _As Mac OS X 10.0 was quickly replaced by Mac OS X 10.1, I was only able to find these three updates that apply to it:_
-  * Software Update 1.3.1
-* Mac OS X 10.0.4 Combined Update
-  * iTunes for Mac OS X 1.1
+Software Update 1.3.1
+Mac OS X 10.0.4 Combined Update
+iTunes for Mac OS X 1.1
+
 ### Mac OS X 10.1 Puma
 _I’m not sure exactly what order these need to be installed in_
   * Mac OS X 10.1.5 Combined Update
@@ -24,6 +25,7 @@ _I’m not sure exactly what order these need to be installed in_
   * Security Update 2002-08-02
   * Security Update 2002-11-21
   * Security Update 2004-01-26
+
 ### Mac OS X 10.2 Jaguar
 _Note: the Security updates must be installed in the order listed_
   * Mac OS X Update 10.2.8 / Mac OS X Update 10.2.8 (G5)
@@ -34,8 +36,8 @@ _Note: the Security updates must be installed in the order listed_
 * iSync 1.5
 * AirPort 3.1.1
 * Java 1.4.1 Update 1
-* Bluetooth Updater 1.3.3 (for Macs with Bluetooth)
-* Bluetooth Updater 1.3.4 (for Macs with Bluetooth)
+* Bluetooth Updater 1.3.3.     _for Macs with Bluetooth_
+* Bluetooth Updater 1.3.4      _for Macs with Bluetooth_
 * AFP Client Update 1.0
 * Apple Remote Desktop Client 2.2
 * Graphics Driver Update
@@ -46,10 +48,11 @@ _Note: the Security updates must be installed in the order listed_
 * Security Update 2004-05-03
 * Security Update 2004-05-24
 * Security Update 2004-06-07
-* Security Update 2004-09-16 iChat 1.0 _if you did not install iChat AV_
-* Security Update 2004-09-16 iChat AV 2.0 _if you did install iChat AV_
+* Security Update 2004-09-16 iChat 1.0      _if you did not install iChat AV_
+* Security Update 2004-09-16 iChat AV 2.0      _if you did install iChat AV_
 * Security Update 2004-09-30
 * Security Update 2005-001
+
 ### Mac OS X 10.3 Panther
 _Note: the Java and Security updates must be installed in the order listed_
 * Mac OS X 10.3.9 Combined Update
@@ -79,28 +82,30 @@ _Note: the Java and Security updates must be installed in the order listed_
 * Security Update Panther 2007-002
 * Security Update Panther 2007-003
 * Security Update Panther 2007-008
+
 ### Mac OS X 10.4 Tiger
 _Note: This installation order was presented by Software Update_
 * Mac OS X 10.4.11 Combined Update for PowerPC/Intel
 * Java 1.3.1 and 1.4.2 Release 2
-* Security Update 2009-005 for PowerPC/Intel _Apple made security updates cumulative in Tiger_
+* Security Update 2009-005 for PowerPC/Intel     _Apple made security updates cumulative in Tiger_
 * QuickTime 7.6.4
 * J2SE 5.0 Release 4
 * Migration and DVD and CD Sharing Update
-* X11 Update 2006 _if you installed X11_
+* X11 Update 2006     _if you installed X11_
 * Safari 4.1.3
 * Java for Mac OS X 10.4 Release 5
 * iTunes 8.2.1 _for G3-based Macs only_
 * iTunes 9.2.1 _for G4, G5, or Intel-based Macs_
 * Apple Remote Desktop Client 3.4
-* AirPort Utility 4.2.5 (Graphite and Snow) _if you use any legacy AirPort Base Stations_
+* AirPort Utility 4.2.5 (Graphite and Snow)     _if you use any legacy AirPort Base Stations_
 * AirPort Utility 5.4.2
 * Java for Mac OS X 10.4 Release 6
 * Java for Mac OS X 10.4 Release 7
 * Java for Mac OS X 10.4 Release 8
 * Java for Mac OS X 10.4 Release 9
-* iMac Software Update 1.2.1 _for 2007 iMacs only_
-* AirPort Extreme Update 2008-002 _for Intel-based Macs only_
+* iMac Software Update 1.2.1    _for 2007 iMacs only_
+* AirPort Extreme Update 2008-002     _for Intel-based Macs only_
+
 ### Mac OS X 10.5 Leopard
 * Mac OS X 10.5.8 Update Combined
 * Front Row Update 2.1.7
@@ -116,6 +121,7 @@ _Note: This installation order was presented by Software Update_
 * iLife Support 9.0.4
 * AirPort Utility 5.6.1
 * Java for Mac OS X 10.5 Update 10
+
 ### Mac OS X 10.6 Snow Leopard
 * Mac OS X 10.6.8 Update Combined
 * Apple Software Installer Update
