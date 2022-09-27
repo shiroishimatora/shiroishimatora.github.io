@@ -9,7 +9,7 @@ _As Mac OS X 10.0 was quickly replaced by Mac OS X 10.1, I was only able to find
 * Mac OS X 10.0.4 Combined Update
   * iTunes for Mac OS X 1.1
 ### Mac OS X 10.1 Puma
-_I’m not sure exactly what order these need to be installed in._
+_I’m not sure exactly what order these need to be installed in_
   * Mac OS X 10.1.5 Combined Update
   * Installer Update 1.0
   * Networking Update 1.0
@@ -80,7 +80,7 @@ _Note: the Java and Security updates must be installed in the order listed_
 * Security Update Panther 2007-003
 * Security Update Panther 2007-008
 ### Mac OS X 10.4 Tiger
-*Note: This installation order was presented by Software Update
+_Note: This installation order was presented by Software Update_
 * Mac OS X 10.4.11 Combined Update for PowerPC/Intel
 * Java 1.3.1 and 1.4.2 Release 2
 * Security Update 2009-005 for PowerPC/Intel _Apple made security updates cumulative in Tiger_
