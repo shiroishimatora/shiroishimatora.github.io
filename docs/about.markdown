@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hayward’s old computer blog.
+# The Shiro Archive
+
+#### I used to have a Tumblr account, now I made this for blogging about old computers.
