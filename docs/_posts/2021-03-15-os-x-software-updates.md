@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Software Updates for Mac OS X "
+title:  "Software Updates for Mac OS X"
 ---
 
 # Software Updates for older versions of Mac OS X
