@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Building a 486 Gaming PC"
 ---
 # Building a 486 Gaming PC
