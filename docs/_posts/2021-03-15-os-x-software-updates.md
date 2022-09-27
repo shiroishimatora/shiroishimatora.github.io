@@ -2,12 +2,13 @@
 layout: post
 title:  "Software Updates for older versions of Mac OS X"
 ---
-Updates for Mac OS X were automatically downloaded and installed through Software Update. However, in mid-2014, Apple shut down the servers that ran Software Update for versions of Mac OS X prior to Mac OS X 10.4 Tiger. Some time ago, I researched and archived software updates for every version of Mac OS X I could find in order to keep my Mac collection up-to-date. Here's a list of those updates and some newer ones in case Apple decommissions those servers as well:
+Updates for Mac OS X were automatically downloaded and installed through Software Update.
+However, in mid-2014, Apple shut down the servers that ran Software Update for versions of Mac OS X prior to Mac OS X 10.4 Tiger. Some time ago, I researched and archived software updates for every version of Mac OS X I could find in order to keep my Mac collection up-to-date. Here's a list of those updates and some newer ones in case Apple decommissions those servers as well:
 ### Mac OS X 10.0 Cheetah
 _As Mac OS X 10.0 was quickly replaced by Mac OS X 10.1, I was only able to find these three updates that apply to it:_
-Software Update 1.3.1
-Mac OS X 10.0.4 Combined Update
-iTunes for Mac OS X 1.1
+  * Software Update 1.3.1
+  * Mac OS X 10.0.4 Combined Update
+* iTunes for Mac OS X 1.1
 
 ### Mac OS X 10.1 Puma
 _I’m not sure exactly what order these need to be installed in_
