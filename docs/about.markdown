@@ -6,4 +6,4 @@ permalink: /about/
 
 # The Shiro Archive
 
-#### I used to have a Tumblr account, now I made this for blogging about old computers.
+#### I used to have a Tumblr blog about my computer collection. Now I made this for blogging about my old computers.
