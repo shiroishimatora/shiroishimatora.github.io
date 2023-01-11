@@ -67,7 +67,7 @@ _Disk Copy’s Scan Image for ASR menu_
 At this point, your disk image is ready to be deployed with ASR.
 
 ### Setting up ASR to deploy images
-Rename your disk image and any of its segments without a file extension (the segments still need their `.001` extension, but remove the `.img` or `.dmg` extension). Put your disk image into a folder called Configurations. Put this Configurations folder alongside Apple Software Restore and ASR Prefs. Optionally, create a readme for your disk image describing its contents and place it in the Configurations folder. Name it the same as your image, so (imagename).img.readme or 
+Rename your disk image to remove `.img` or `.dmg` from the file name of the image and all of its segments. This is not required, but it shortens the file names and makes the list of images more presentable in ASR. Put your disk image and segments into a folder called Configurations. Put this Configurations folder alongside Apple Software Restore and ASR Prefs. Optionally, create a readme for your disk image describing its contents and place it in the Configurations folder. Name it the same as your image, but with the `.readme` extension, so  `(imagename).readme`
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
