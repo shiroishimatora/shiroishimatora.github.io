@@ -26,7 +26,9 @@ _ASR as it was presented to the user on a software restore CD._
 
 _ASR showing the disk image to be restored._
 
-Apple used ASR in their factories to deploy the shipping software image to the drive of each Mac that came off the assembly line. Apple continued development and use of ASR for manufacturing, end-user restore CDs, and IT/Computer Lab use into the early Mac OS X era. In fact, because ASR was not yet rewritten for Mac OS X, Apple’s restore CDs continued to boot to Mac OS 9 in order to use ASR to restore images of Mac OS X. This was used until the release of Mac OS X version 10.2 Jaguar, which had a Mac OS X-native version of ASR.
+Apple used ASR in their factories to deploy the shipping software image to the hard drive of each Mac that came off the assembly line. Apple continued development and use of ASR for manufacturing, end-user restore CDs, and IT/Computer Lab use into the early Mac OS X era. In fact, because ASR was not yet rewritten for Mac OS X, Apple’s restore CDs continued to boot to Mac OS 9 in order to use ASR to restore images of Mac OS X. This was used until the release of Mac OS X version 10.2 Jaguar, which had a Mac OS X-native version of ASR.
+
+### How to use ASR to create and deploy images of Mac OS X
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
