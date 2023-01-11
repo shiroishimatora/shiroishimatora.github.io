@@ -44,17 +44,19 @@ Once in single-user mode, run fsck by entering `/sbin/fsck -fy` and mount the ro
 
 This is all that is necessary to prepare Mac OS X for imaging. I go a bit further and delete caches, preferences, the swap file, and anything else that indicates the installation has been used before. As this is tedious, I will document it later.
 
-Now, reboot to your Imaging partition with Mac OS 9. Run Disk First Aid on your Mac OS X partition. Then open Disk Copy 6.5b13 and select Create Image From Folder and select your Mac OS X partition.
+Now, reboot to your Imaging partition with Mac OS 9. Run Disk First Aid on your Mac OS X partition. Then open Disk Copy 6.5b13 and select Image -\> Create Image From Folder and select your Mac OS X partition.
 
 ![][image-4]
 
 _Create Image From Folder_
 
-Disk Copy will take a bit to calculate the size of the image. In the next dialog, select Read-Only as the disk image format and save it to the other hard drive in your system (I call mine Big Disk as it is 137 GB). While you can go ahead and select Read-Only Compressed, it takes a very long time to compress the image.
+Disk Copy will take a bit to calculate the size of the image. In the next dialog, select Read/Write as the disk image format and save it to the other hard drive in your system (I call mine Big Disk as it is 137 GB). While you can skip ahead and select Read-Only Compressed, it takes a very long time to compress the image and images over 1 GB will usually error out
 
 ![][image-5]
 
 _Save Disk Image As:_
+
+After Disk Copy finishes creating the image, select Image -\> Convert Image
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
