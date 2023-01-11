@@ -33,8 +33,8 @@ First, a some advice on setting up a workspace. For my system images, I used a P
 
 Software required:
 - Mac OS 9.1 or later
-- Disk Copy 6.4 or 6.5b13 with ImageScan scripts
-- ASR 2.2.5
+- Disk Copy 6.5b13 with ImageScan scripts
+- [ASR 2.2.5][1]
 
 **Note:** I have used ASR to successfully image Mac OS X 10.0 through 10.2. It should work with 10.3 as well, but I have yet to try it. Do not use ASR 2.2.5 to image Mac OS X 10.4.
 
@@ -72,6 +72,8 @@ Rename your disk image to remove `.img` or `.dmg` from the file name of the imag
 Open ASR and you will see your newly-created image in the list on the left and the description you wrote on the right (if you made one). Click Restore and the image will be restored to the selected disk and the Post actions ran (if you made any).
 
 To make deploying images easy, I have ASR and my images stored on an AFP share. That way, I can simply NetBoot a Mac to Mac OS 9, mount the share, and restore an image. That, or I could also boot using a Mac OS 9 install CD, mount the share, and restore an image.
+
+[1]:	https://macintoshgarden.org/apps/apple-software-restore-225
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
