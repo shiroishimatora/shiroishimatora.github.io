@@ -34,7 +34,7 @@ First, a some advice on setting up a workspace. For my system images, I used a P
 Software required:
 - Mac OS 9.1 or later
 - Disk Copy 6.5b13 with ImageScan scripts
-- [ASR 2.2.5][1]
+- ASR 2.2.5 ([Macintosh Garden link][1])
 
 **Note:** I have used ASR to successfully image Mac OS X 10.0 through 10.2. It should work with 10.3 as well, but I have yet to try it. Do not use ASR 2.2.5 to image Mac OS X 10.4.
 
