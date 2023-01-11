@@ -33,7 +33,7 @@ First, a some advice on setting up a workspace. For my system images, I used a P
 
 Software required:
 - Mac OS 9.1 or later
-- Disk Copy 6.5b13 with ImageScan scripts
+- Disk Copy 6.4 or 6.5b13 with ImageScan scripts
 - ASR 2.2.5
 
 **Note:** I have used ASR to successfully image Mac OS X 10.0 through 10.2. It should work with 10.3 as well, but I have yet to try it. Do not use ASR 2.2.5 to image Mac OS X 10.4.
@@ -50,16 +50,27 @@ Now, reboot to your Imaging partition with Mac OS 9. Run Disk First Aid on your 
 
 _Create Image From Folder_
 
-Disk Copy will take a bit to calculate the size of the image. In the next dialog, select Read/Write as the disk image format and save it to the other hard drive in your system (I call mine Big Disk as it is 137 GB). While you can skip ahead and select Read-Only Compressed, it takes a very long time to compress the image and images over 1 GB will usually error out
+Disk Copy will take a bit to calculate the size of the image. In the next dialog, select Read/Write as the disk image format. De-select Mount Image and save the image to the second hard drive in your system (I call mine Data). Again, I recommend using two drives because a file-by-file copy from one drive to another takes significantly less time than a file-by-file copy one partition to another on the same drive. While you can skip ahead and select Read-Only Compressed, it takes a very long time to compress and images over 1 GB will usually error out. 
 
 ![][image-5]
 
 _Save Disk Image As:_
 
-After Disk Copy finishes creating the image, select Image -\> Convert Image
+Disk images under 1 GB will be saved as a Disk Copy 6 NDIF image. Disk images over 1 GB will be split into 1 GB segments and will be UDIF images. While Mac OS 9.1 and later support files larger than 2 GB, AppleShare does not. So I keep my image segments at 1 GB for simplicity. Select Image -\> Convert Image from Disk Copy’s menu and convert the image to Read-Only Compressed. Save the image. This will take a long time.
+
+Once the conversion is complete, select Scripts -\> Scan X-only Image for ASR from Disk Copy’s menu. If your disk image contains Mac OS 9 in addition to Mac OS X or just Mac OS 9 only, select Scan X+9 Image for ASR from the menu instead. Select your compressed image from the dialog. This will also take some time, but not nearly as long as the image compression. In this step, a checksum of the disk image is computed and added to the resource fork of the disk image.
+
+![][image-6]
+
+_Disk Copy’s Scan Image for ASR menu_
+
+At this point, your disk image is ready to be deployed with ASR.
+
+### Setting up ASR to deploy images
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
 [image-3]:	/assets/images/system-imaging-with-asr/asr-1.3.png
 [image-4]:	/assets/images/system-imaging-with-asr/create-image-from-folder.png
 [image-5]:	/assets/images/system-imaging-with-asr/save-disk-image-as.png
+[image-6]:	/assets/images/system-imaging-with-asr/scan-image-for-asr.png
