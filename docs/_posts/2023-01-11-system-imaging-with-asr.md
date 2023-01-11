@@ -21,6 +21,7 @@ ASR 1.3 and later use specially-prepared Disk Copy images instead of restore bun
 
 _ASR as it was presented to the user on a software restore CD._
 
+
 ![ASR showing the disk image to be restored.][image-3]
 
 _ASR showing the disk image to be restored._
