@@ -29,16 +29,18 @@ _ASR showing the disk image to be restored._
 Apple used ASR in their factories to deploy the shipping software image to the hard drive of each Mac that came off the assembly line. Apple continued development and use of ASR for manufacturing, end-user restore CDs, and IT/Computer Lab use into the early Mac OS X era. In fact, because ASR was not yet rewritten for Mac OS X, Apple’s restore CDs continued to boot to Mac OS 9 in order to use ASR to restore images of Mac OS X. This was used until the release of Mac OS X version 10.2 Jaguar, which had a Mac OS X-native version of ASR.
 
 ### How to use ASR to create and deploy images of Mac OS X
-First, a some advice on setting up a workspace. For my system images, I used a Power Mac G4 (Gigabit Ethernet) with dual 500 MHz G4 processors. This model or a Power Mac G4 (Digital Audio) are ideal because they can boot any of the early Mac OS X versions. I strongly recommend having two hard drives installed. The first drive should be partitioned, I set mine up with an 8 GB partition  that contains Mac OS 9.2.2 and another 8 GB partition that was used as the source of disk images. Having a second hard drive can speed up copy operations as the system would be copying between two drives at full speed rather than copying from one part of a drive to another part at half speed (or less).
+First, a some advice on setting up a workspace. For my system images, I used a Power Mac G4 (Gigabit Ethernet) with dual 500 MHz G4 processors. This model or a Power Mac G4 (Digital Audio) are ideal because they can boot any of the early Mac OS X versions. I strongly recommend having two hard drives installed for performance reasons. The first drive should be partitioned, I set mine up with an 8 GB partition that contains Mac OS 9.2.2 and another 8 GB partition that was used as the source for the disk images. Having a second hard drive can speed up copy operations as the system would be copying between two drives at full speed rather than copying from one part of a drive to another part at half speed or less.
 
 Software required:
 - Mac OS 9.1 or later
 - Disk Copy 6.5b13 with ImageScan scripts
 - ASR 2.2.5
 
-First, set up your workspace (I call mine Imaging) partition by installing Mac OS 9 and copying over Disk Copy and ASR. Then reboot and install the version of Mac OS X you want to image to the other partition (I named mine Macintosh HD).
-
 **Note:** I have used ASR to successfully image Mac OS X 10.0 through 10.2. It should work with 10.3 as well, but I have yet to try it. Do not use ASR 2.2.5 to image Mac OS X 10.4.
+
+First, set up your workspace partition (I call mine Imaging) by installing Mac OS 9 and copying over Disk Copy and ASR. Then reboot and install the version of Mac OS X you want to image to the other partition (I named mine Macintosh HD). Go through the Mac OS X setup assistant and create a temporary user account. Once you reach the desktop, start installing any updates for the version you picked. If you’re using Mac OS X 10.1, **do not** install the Quicktime 6.3.1 update as it will cause issues later. Then install any applications you want to include in the image. Once you are finished setting up the image with the software and updates you want, reboot and hold down Command+S to boot to single-user mode.
+
+Once in single-user mode, run fsck by entering `/sbin/fsck -fy` and mount the root filesystem in read/write mode by typing `/sbin/mount -uw /`. To remove the temporary user account used to set up the image, delete the NetInfo database with `rm -r /var/db/NetInfo/local.nidb`. Don’t worry, the NetInfo database will be automatically regenerated at the next boot. Now delete the home folder of the temporary user account with `rm -r /Users/<name of the temporary account>`. The last step is to trigger the Setup Assistant at the next boot by deleting .AppleSetupDone, do this with `rm /var/db/.AppleSetupDone`. Upon reboot, the welcome video will play and the setup assistant will launch again.
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
