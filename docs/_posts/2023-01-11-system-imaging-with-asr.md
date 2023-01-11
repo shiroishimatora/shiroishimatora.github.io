@@ -40,8 +40,24 @@ Software required:
 
 First, set up your workspace partition (I call mine Imaging) by installing Mac OS 9 and copying over Disk Copy and ASR. Then reboot and install the version of Mac OS X you want to image to the other partition (I named mine Macintosh HD). Go through the Mac OS X setup assistant and create a temporary user account. Once you reach the desktop, start installing any updates for the version you picked. If you’re using Mac OS X 10.1, **do not** install the Quicktime 6.3.1 update as it will cause issues later. Then install any applications you want to include in the image. Once you are finished setting up the image with the software and updates you want, reboot and hold down Command+S to boot to single-user mode.
 
-Once in single-user mode, run fsck by entering `/sbin/fsck -fy` and mount the root filesystem in read/write mode by typing `/sbin/mount -uw /`. To remove the temporary user account used to set up the image, delete the NetInfo database with `rm -r /var/db/NetInfo/local.nidb`. Don’t worry, the NetInfo database will be automatically regenerated at the next boot. Now delete the home folder of the temporary user account with `rm -r /Users/<name of the temporary account>`. The last step is to trigger the Setup Assistant at the next boot by deleting .AppleSetupDone, do this with `rm /var/db/.AppleSetupDone`. Upon reboot, the welcome video will play and the setup assistant will launch again.
+Once in single-user mode, run fsck by entering `/sbin/fsck -fy` and mount the root filesystem in read/write mode by typing `/sbin/mount -uw /`. To remove the temporary user account used to install software and updates, delete the NetInfo database with `rm -r /var/db/NetInfo/local.nidb`. Don’t worry, the NetInfo database will be automatically regenerated at the next boot. Now delete the home folder of the temporary user account with `rm -r /Users/<name of the temporary account>`. The last step is to trigger the Setup Assistant at the next boot by deleting .AppleSetupDone, do this with `rm /var/db/.AppleSetupDone`. Upon reboot, the welcome video will play and the setup assistant will launch again.
+
+This is all that is necessary to prepare Mac OS X for imaging. I go a bit further and delete caches, preferences, the swap file, and anything else that indicates the installation has been used before. As this is tedious, I will document it later.
+
+Now, reboot to your Imaging partition with Mac OS 9. Run Disk First Aid on your Mac OS X partition. Then open Disk Copy 6.5b13 and select Create Image From Folder and select your Mac OS X partition.
+
+![][image-4]
+
+_Create Image From Folder_
+
+Disk Copy will take a bit to calculate the size of the image. In the next dialog, select Read-Only as the disk image format and save it to the other hard drive in your system (I call mine Big Disk as it is 137 GB). While you can go ahead and select Read-Only Compressed, it takes a very long time to compress the image.
+
+![][image-5]
+
+_Save Disk Image As:_
 
 [image-1]:	/assets/images/system-imaging-with-asr/restore-bundle.png
 [image-2]:	/assets/images/system-imaging-with-asr/asr-1.3-folder.png
 [image-3]:	/assets/images/system-imaging-with-asr/asr-1.3.png
+[image-4]:	/assets/images/system-imaging-with-asr/create-image-from-folder.png
+[image-5]:	/assets/images/system-imaging-with-asr/save-disk-image-as.png
