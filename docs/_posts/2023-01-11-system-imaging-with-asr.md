@@ -8,6 +8,7 @@ Before it was rewritten as a command-line utility for Mac OS X, Apple Software R
 The first incarnation of Apple Software Restore was no more than a modified Apple Software Installer script. The second incarnation, version 1.1 included with the SSW Restoration CD, was a standalone application. Both perform the same function: erasing a user’s drive and restoring it to exactly how it was shipped from the factory.
 
 Versions of ASR prior to 1.3 use Custom Mac Bundles rather than disk images. As ASR was a tool for use only by Apple and Apple-Authorized Service Providers, Apple did not document the format of custom Mac bundles or how to create them. The main structure is a folder with one subfolder and two documents. The name of the enclosing folder is the name of the bundle. The first document is a database of what appears to be a checksums of files in the bundle. It is named _(imagename).Database_. The second file is a text file describing the bundle, this is displayed to the user when the bundle is selected in ASR. It is named _(imagename).ReadMe_. The subfolder is the main content of the bundle, any file contained within is copied to the destination. It is named _(imagename)·(checksum)·_.
+
 ![The contents of a Custom Mac Bundle][image-1]
 
 _The contents of a Custom Mac Bundle_
