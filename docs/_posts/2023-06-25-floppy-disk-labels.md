@@ -36,7 +36,7 @@ I found an eBay listing for the disk and used that picture as a baseline. I made
 ## The second era: FatBits icons
 ![MacDraw][image-5]
 
-Apple used this style of label starting in 1984 for Macintosh applications that did not come bundled with the system. This style was also used for Lisa Office System 3.0 disks and disks that came bundled with Macintosh Plus and Macintosh 512Ke. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. The early version of this design is notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7"), this aspect was dropped sometime in 1985.
+Apple used this style of label starting sometime in 1984 for Macintosh applications that were not bundled with the system such as MacDraw or MacTerminal. This style was later used for Macintosh Plus/512Ke bundled disks and also Lisa Office System 3.0 disks. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. The early version of this design is notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7"), this aspect was dropped sometime in early 1985.
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
