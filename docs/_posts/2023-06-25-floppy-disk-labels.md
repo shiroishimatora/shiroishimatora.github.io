@@ -32,7 +32,6 @@ The last two elements are the Picasso-style Macintosh logo and its trademark. Th
 I found an eBay listing for the disk and used that picture as a baseline. I made a new canvas, dropped in the image, and stretched the image to 200% and began tracing over it. After about an hour of manually retracing it, I made a discovery: the paint bucket tool in Pixelmator is smart! Similar to how the eraser tool can be used to select areas of similar color to be removed, the paint bucket can select areas of similar color to be painted over without affecting other lines nearby or the background. This dramatically simplified the process as I just had to use the paint bucket to paint over the lines and smooth out the edges. I chose a mustard-like yellow for the MacPaint portion and ketchup-like red for the MacWrite portion of the drawing. It turned out rather well.
 
 ## The second era: Fat Bits icons
-
 ![MacDraw][image-5]
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
