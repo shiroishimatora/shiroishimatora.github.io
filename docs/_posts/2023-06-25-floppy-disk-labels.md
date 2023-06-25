@@ -24,9 +24,11 @@ The last two elements are the Picasso-style Macintosh logo and its trademark. Th
 
 ![System 1 label][image-3]
 
-This next label is one I'm quite proud of: MacWrite MacPaint disk
+This next label is one I'm quite proud of: MacWrite • MacPaint disk
 
-![MacWrite MacPaint][image-4]
+![MacWrite • MacPaint][image-4]
+
+I found an eBay listing for the disk and used that picture as a baseline. I made a new canvas, dropped in the image, and stretched the image to 200% and began tracing over it. After about an hour of manually retracing it, I made a discovery: the paint bucket tool in Pixelmator is smart! Similar to how the eraser tool can be used to select areas of similar color to be removed, the paint bucket can select areas of similar color to be painted over. This dramatically simplified the process as I just had to use the paint bucket to paint over the lines and smooth out the edges. I chose a mustard-like yellow for the MacPaint portion and ketchup-like red for the MacWrite portion of the drawing.
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
