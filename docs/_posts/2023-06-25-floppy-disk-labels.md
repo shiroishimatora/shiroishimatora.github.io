@@ -18,7 +18,7 @@ The next step was to create a new project in Pixelmator Classic. I made a canvas
 ## The first era: Picasso logo
 ![System 1 label][image-3]
 
-Apple used this style of label for disks that came bundled with Macintosh 128K and 512K.
+Apple used this style of label for disks that came bundled with Macintosh 128K and 512K. As far as I can tell, this style was used through System 2.0 in 1985. 
 
 Now that I have a template, I can start creating reproduction floppy disk labels. The first label I made was for a Macintosh System Disk, the kind that uses the Picasso-style Mac logo. I found a few eBay listings for disks in this style and used them as a reference. The first step was to change the spine and rear fill color to red. I then added the copyright text and part number text in white Helvetica and placed them in rough approximation to how they appear on the original label. Text in the spine and rear areas must be rotated 180 degrees so that it appears correctly when the label is printed and applied to the disk. Early Mac disks did have text in the spine area, but I can't find a clear reference picture, so I left it out.
 
@@ -36,7 +36,7 @@ I found an eBay listing for the disk and used that picture as a baseline. I made
 ## The second era: FatBits icons
 ![MacDraw][image-5]
 
-Apple used this style of label for early Macintosh applications that did not come bundled with the system and also for Lisa Office System 3.0. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. These designs are notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7")
+Apple used this style of label starting in 1984 for Macintosh applications that did not come bundled with the system. This style was also used for Lisa Office System 3.0 disks and disks that came bundled with Macintosh Plus and Macintosh 512Ke. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. The early version of this design is notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7"), this aspect was dropped sometime in 1985.
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
