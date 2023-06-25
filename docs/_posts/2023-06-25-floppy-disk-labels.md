@@ -24,6 +24,11 @@ The last two elements are the Picasso-style Macintosh logo and its trademark. Th
 
 ![System 1 label][image-3]
 
+This next label is one I'm quite proud of: MacWrite MacPaint disk
+
+![MacWrite MacPaint][image-4]
+
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
 [image-3]:	/assets/images/floppy-disk-labels/system-1.jpeg
+[image-4]:	/assets/images/floppy-disk-labels/mw-mp.jpeg
