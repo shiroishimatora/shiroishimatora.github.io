@@ -18,6 +18,8 @@ The next step was to create a new project in Pixelmator Classic. I made a canvas
 ## The first era: Picasso logo
 ![System 1 label][image-3]
 
+Apple used this style of label for disks that came bundled with Macintosh 128K and 512K.
+
 Now that I have a template, I can start creating reproduction floppy disk labels. The first label I made was for a Macintosh System Disk, the kind that uses the Picasso-style Mac logo. I found a few eBay listings for disks in this style and used them as a reference. The first step was to change the spine and rear fill color to red. I then added the copyright text and part number text in white Helvetica and placed them in rough approximation to how they appear on the original label. Text in the spine and rear areas must be rotated 180 degrees so that it appears correctly when the label is printed and applied to the disk. Early Mac disks did have text in the spine area, but I can't find a clear reference picture, so I left it out.
 
 For the text on the front, I did have to play around with the kerning until the spacing between letters closely matched the reference photo. I then had to convert the title text to shapes and vertically stretch it until it looked correct. And then add the little TM text box to the right of the title and played around with the position until it also appeared to match the reference photo. Much of the same applies to the SYSTEM DISK subtitle, it has a lot of kerning adjustments between letters and is stretched horizontally to look correct (most noticeable with the "D" in "DISK"). I then added a dotted line and changed the size of the dots and relative positions of the text and line until it visually matched the reference photo. I found a monochrome red Apple logo and dropped it on the canvas, resizing and moving until the positioning appeared correct.
@@ -31,8 +33,10 @@ The last two elements are the Picasso-style Macintosh logo and its trademark. Th
 
 I found an eBay listing for the disk and used that picture as a baseline. I made a new canvas, dropped in the image, and stretched the image to 200% and began tracing over it. After about an hour of manually retracing it, I made a discovery: the paint bucket tool in Pixelmator is smart! Similar to how the eraser tool can be used to select areas of similar color to be removed, the paint bucket can select areas of similar color to be painted over without affecting other lines nearby or the background. This dramatically simplified the process as I just had to use the paint bucket to paint over the lines and smooth out the edges. I chose a mustard-like yellow for the MacPaint portion and ketchup-like red for the MacWrite portion of the drawing. It turned out rather well.
 
-## The second era: Fat Bits icons
+## The second era: FatBits icons
 ![MacDraw][image-5]
+
+Apple used this style of label for early Macintosh applications that did not come bundled with the system and also for Lisa Office System 3.0. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. These designs are notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7")
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
