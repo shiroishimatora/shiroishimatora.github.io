@@ -15,4 +15,4 @@ The next step was to create a new project in Pixelmator Classic. I made a canvas
 ![Template][image-2]
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
-[image-1]:	/assets/images/floppy-disk-labels/template.jpeg
+[image-2]:	/assets/images/floppy-disk-labels/template.jpeg
