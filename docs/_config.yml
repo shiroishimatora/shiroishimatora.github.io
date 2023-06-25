@@ -22,7 +22,10 @@ title: The Shiro Archive
 description: >- # this means to ignore newlines until "baseurl:"
   Hayward's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ice-lolly.social/@shiroishimatora" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+mastodon:
+- username: shiroishimatora
+  instance: ice-lolly.social
 
 # Build settings
 markdown: kramdown
