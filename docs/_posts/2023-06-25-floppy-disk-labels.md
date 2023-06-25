@@ -20,5 +20,10 @@ Now that I have a template, I can start creating reproduction floppy disk labels
 
 I can't accurately describe how I made the Macintosh title and SYSTEM DISK subtitle as I can't quite remember what I did to make them. To start, the font is Apple Garamond. For the Macintosh title, I did have to play with kerning until the spacing between letters looked correct. I then had to convert the text to shapes and vertically stretch it until it looked correct. And then add the little TM text box to the right of the title and played around with the spacing until it also looked correct. Much of the same applies to the SYSTEM DISK subtitle, it has a lot of kerning adjustments between letters and is stretched horizontally to look correct (most noticeable with the "D" in "DISK"). I then added a dotted line and changed the size of the dots and relative positions of the text and line until it looked correct. I found a monochrome red Apple logo and dropped it on the canvas, resizing and moving until the positioning appeared correct.
 
+The last two elements are the Picasso-style Macintosh logo and its trademark. This was probably the easiest part, I found a fairly clean copy of the logo and used instant alpha to remove the white background. I then placed it on the canvas and resized it so that it looks visually correct. I then ensured the logo aligned with the left edge of the title and subtitle text and that the spacing between the subtitle and top of the logo looked correct. That's about it for this style of label.
+
+![System 1 label][image-3]
+
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
+[image-3]:	/assets/images/floppy-disk-labels/system-1.jpeg
