@@ -86,3 +86,5 @@ This design was also used starting in the late System 6 era of 1990.
 [image-11]:	/assets/images/floppy-disk-labels/system-6-late.jpeg
 [image-12]:	/assets/images/floppy-disk-labels/system-7.0.1.jpeg
 [image-13]:	/assets/images/floppy-disk-labels/system-7.1.jpeg
+[image-14]:	/assets/images/floppy-disk-labels/quadra-605.jpeg
+[image-15]:	/assets/images/floppy-disk-labels/powerbook-duo.jpeg
