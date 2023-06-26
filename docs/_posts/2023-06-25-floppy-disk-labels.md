@@ -71,7 +71,15 @@ This design was also used starting in the late System 6 era of 1990.
 ## The Sixth Era: System 7.0.1 and the advent of System Enablers (1992-1993)
 ![System 7.0.1][image-12]
 
+This design moves the Macintosh wordmark back to the bottom and removes the garish "7" logo. This design accompanied the first PowerBooks and the first Quadras.
 
+![System 7.1][image-13]
+
+The rainbow Apple logo was removed, a monochrome logo was substituted in its place.
+
+Notably, this era had the first system-specific install media. Starting with System 7.1, Apple no longer released new versions of System Software for the launch of a new Macintosh. Instead, a new Mac would ship with three to four model-specific disks and the remainder were standard disks. For example, the following image is the Install Me First disk for a Macintosh Quadra 605:
+
+![Quadra 605][image-14]
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
