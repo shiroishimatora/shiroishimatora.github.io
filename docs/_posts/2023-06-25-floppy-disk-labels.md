@@ -81,6 +81,8 @@ Notably, this era had the first system-specific install media. Starting with Sys
 
 ![Quadra 605][image-14]
 
+Instead of booting from the Install disk, the user would boot from the Install Me First disk, which had the appropriate System Enabler that allowed an otherwise unmodified System 7.1 to boot. The two other model-specific disks were Disk Tools (again, with the System Enabler to allow it to boot) and Extras. The remaining Install, Install 2, Fonts, Tidbits, and Printing disks were stock System 7.1 disks.
+
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
 [image-3]:	/assets/images/floppy-disk-labels/system-1.jpeg
