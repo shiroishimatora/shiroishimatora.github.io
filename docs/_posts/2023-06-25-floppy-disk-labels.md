@@ -38,10 +38,12 @@ I found an eBay listing for the disk and used that picture as a baseline. I made
 
 Apple used this style of label starting sometime in 1984 for Macintosh applications that were not bundled with the system such as MacDraw or MacTerminal. This style was later used for Macintosh Plus/512Ke bundled disks and also Lisa Office System 3.0 disks. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. The early version of this design is notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7"), this aspect was dropped sometime in early 1985.
 
-This design was easier to recreate, though I still had to heavily mess around with kerning and stretching text vertically to get the appearance correct.
+This design was easier to recreate than the Picasso, though I still had to heavily tweak kerning and stretch text vertically to get the appearance correct.
 
 ![Recreating Mac icons][image-8]
+
 For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the zoom by a ridiculous amount. I then recreated each icon pixel-by-pixel then turned off the grid overlay and took a screenshot of the canvas. I trimmed the screenshot down to a perfect square and effectively left me with a 2048x2048 FatBits icon.
+
 ![MacWrite icon][image-9]
 
 ## The third era: Trying to appear more professional
