@@ -2,8 +2,7 @@
 layout: post
 title:  "Making reproduction floppy disk labels"
 ---
-# WORK IN PROGRESS
-# INTRO AREA
+# INTRODUCTION GOES HERE
 
 ## Making a label template
 The first step was to measure the front, spine, and rear label areas of a 3.5" floppy disk. The front label area is 2.75 inches wide and 2.125 (2 1/8) inches tall. The spine is 2.75 inches wide and 0.125 (1/8) inches tall. The rear label area is 2.75 inches wide and 0.5 inches tall. The three label areas sum together to form a 2.75 inch square with rounded corners. This makes a single label that wraps from the front to the rear.
@@ -95,6 +94,8 @@ Macintoshes in this era with built-in CD-ROMs shipped their recovery media as a 
 This is my least favorite design. Apple started using it in the late System 7.1 era around the time of the PowerBook 500 and through the end of the System 7.5 era. System 7.1 could still be installed from a set of six disks, but System 7.5.3 was so large that it required sixteen disks. Macintosh System Software was increasingly being distributed on CD-ROM, so this lessened the need for a set of floppy disks as recovery media.
 
 Design wise, this is fairly simple: some text, a dotted line, and a mouse cursor with the opacity turned down.
+
+This really is the last floppy disk label design. Later labels are text-only and don't wrap around to the back (Mac OS 8 Disk Tools floppy).
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
