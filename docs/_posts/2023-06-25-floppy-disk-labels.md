@@ -49,7 +49,7 @@ For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the z
 
 This label is similar to the FatBits style, but without an application icon on the label and having the Macintosh wordmark set in white text on a black rectangle. These labels appeared in 1987 with the release of the Macintosh SE and Macintosh II and spread to the remainder of Apple's product line. Printed material, such as the Macintosh Owner's Guides, used this design as well. My assumption is that Apple was trying to appear more "professional" to match the target audience of the Macintosh SE and Macintosh II. System 4 and System 5 both use this label design.
 
-Recreating this label was very simple, it did not require stretching text vertically or anything complicated like the Picasso logo disks. The only adjustments needed are some minor kerning tweaks.
+Recreating this label was very simple, it did not require stretching text vertically or anything complicated like the Picasso logo or FatBits disks. The only adjustments needed are some kerning tweaks. Since there were no icons, it was only a matter of getting the layout right.
 
 ## The Fourth era: System 6
 ![System Tools 6.0][image-7]
@@ -62,6 +62,6 @@ This label is a further simplification of the System 4/System 5 label design, re
 [image-4]:	/assets/images/floppy-disk-labels/mw-mp.jpeg
 [image-5]:	/assets/images/floppy-disk-labels/macdraw.jpeg
 [image-6]:	/assets/images/floppy-disk-labels/system-4.jpeg
-[image-7]:	/assets/images/floppy-disk-labels/system-6.jpeg
+[image-7]:	/assets/images/floppy-disk-labels/system-6-early.jpeg
 [image-8]:	/assets/images/floppy-disk-labels/macwrite-icon-making.jpeg
 [image-9]:	/assets/images/floppy-disk-labels/macwrite-icon.jpeg
