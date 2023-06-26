@@ -40,9 +40,8 @@ Apple used this style of label starting sometime in 1984 for Macintosh applicati
 
 This design was easier to recreate, though I still had to heavily mess around with kerning and stretching text vertically to get the appearance correct.
 
-For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the zoom by a ridiculous amount. I then recreated each icon pixel-by-pixel, turned off the grid overlay, and took a screenshot of the canvas. I trimmed the screenshot down to a perfect square and effectively have a 2048x2048 pixel art icon.
-
 ![Recreating Mac icons][image-8]
+For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the zoom by a ridiculous amount. I then recreated each icon pixel-by-pixel, turned off the grid overlay, and took a screenshot of the canvas. I trimmed the screenshot down to a perfect square and effectively have a 2048x2048 pixel art icon.
 ![MacWrite icon][image-9]
 
 ## The third era: Trying to appear more professional
