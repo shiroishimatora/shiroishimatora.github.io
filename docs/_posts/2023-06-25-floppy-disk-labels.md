@@ -77,11 +77,15 @@ This design moves the Macintosh wordmark back to the bottom and removes the gari
 
 The rainbow Apple logo was removed, a monochrome logo was substituted in its place.
 
-Notably, this era had the first system-specific install media. Starting with System 7.1, Apple no longer released new versions of System Software for the launch of a new Macintosh. Instead, a new Mac would ship with three to four model-specific disks and the remainder were standard disks. For example, the following image is the Install Me First disk for a Macintosh Quadra 605:
+Notably, this era had the first system-specific install media. Starting with System 7.1, Apple no longer released new versions of System Software for the launch of a new Macintosh. Instead, a new Mac would ship with three to four model-specific disks and the remainder were standard disks. The model-specific disks had a subtitle with the model name. For example, the following image is the Install Me First disk for a Macintosh Quadra 605:
 
 ![Quadra 605][image-14]
 
-Instead of booting from the Install disk, the user would boot from the Install Me First disk, which had the appropriate System Enabler that allowed an otherwise unmodified System 7.1 to boot. The two other model-specific disks were Disk Tools (again, with the System Enabler to allow it to boot) and Extras. The remaining Install, Install 2, Fonts, Tidbits, and Printing disks were stock System 7.1 disks.
+Instead of booting from the usual Install disk, the user would boot from the Install Me First disk, which had the appropriate System Enabler that allowed an otherwise unmodified System 7.1 to boot. The two other model-specific disks were Disk Tools (again, with the System Enabler to allow it to boot) and Extras. The remaining Install, Install 2, Fonts, Tidbits, and Printing disks were stock System 7.1 disks.
+
+![PowerBook Duo][image-15]
+
+The PowerBook Duo installation disks were interesting to me as I could not get the Duo wordmark to look right. It turns out that Apple used Helvetica Heavy rather than Helvetica Bold.
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
