@@ -87,6 +87,15 @@ Instead of booting from the usual Install disk, the user would boot from the Ins
 
 The PowerBook Duo installation disks were interesting to me as I could not get the Duo wordmark to look right. It turns out that Apple used Helvetica Heavy rather than Helvetica Bold.
 
+Macintoshes in this era with built-in CD-ROMs shipped their recovery media as a bootable CD-ROM rather than a set of floppies. Thus lessening the need for floppy disk labels.
+
+## The Seventh Era: System 7.1 through 7.5 and the end of floppy disk labels (1994-1996)
+![System 7.5][image-16]
+
+This is my least favorite design. Apple started using it in the late System 7.1 era around the time of the PowerBook 500 and through the end of the System 7.5 era. System 7.1 could still be installed from a set of six disks, but System 7.5.3 was so large that it required sixteen disks. Macintosh System Software was increasingly being distributed on CD-ROM, so this lessened the need for a set of floppy disks as recovery media.
+
+Design wise, this is fairly simple: some text, a dotted line, and a mouse cursor with the opacity turned down.
+
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
 [image-3]:	/assets/images/floppy-disk-labels/system-1.jpeg
@@ -102,3 +111,4 @@ The PowerBook Duo installation disks were interesting to me as I could not get t
 [image-13]:	/assets/images/floppy-disk-labels/system-7.1.jpeg
 [image-14]:	/assets/images/floppy-disk-labels/quadra-605.jpeg
 [image-15]:	/assets/images/floppy-disk-labels/powerbook-duo.jpeg
+[image-16]:	/assets/images/floppy-disk-labels/system-7.5.jpeg
