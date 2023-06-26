@@ -15,7 +15,7 @@ The next step was to create a new project in Pixelmator Classic. I made a canvas
 
 ![Template][image-2]
 
-## The First era: the Picasso logo
+## The First Era: the Picasso logo
 ![System 1 label][image-3]
 
 Apple used this style of label for disks that came bundled with Macintosh 128K and 512K. As far as I can tell, this style was used through System 2.0 in 1985. 
@@ -33,7 +33,7 @@ The last two elements are the Picasso-style Macintosh logo and its trademark. Th
 
 I found an eBay listing for the disk and used that picture as a baseline. I made a new canvas, dropped in the image, and stretched the image to 200% and began tracing over it. After about an hour of manually retracing it, I made a discovery: the paint bucket tool in Pixelmator is smart! Similar to how the eraser tool can be used to select areas of similar color to be removed, the paint bucket can select areas of similar color to be painted over without affecting other lines nearby or the background. This dramatically simplified the process as I just had to use the paint bucket to paint over the lines and smooth out the edges. I chose a mustard-like yellow for the MacPaint portion and ketchup-like red for the MacWrite portion of the drawing. It turned out rather well.
 
-## The Second era: FatBits icons
+## The Second Era: FatBits icons
 ![MacDraw][image-5]
 
 Apple used this style of label starting sometime in 1984 for Macintosh applications that were not bundled with the system such as MacDraw or MacTerminal. This style was later used for Macintosh Plus/512Ke bundled disks and also Lisa Office System 3.0 disks. These label designs are a lot simpler as they have just a FatBits bitmap of the app icon and a rainbow Apple logo. The early version of this design is notable for having the platform name in large type on the rear ("Macintosh" or "Lisa 7/7"), this aspect was dropped sometime in early 1985.
@@ -46,27 +46,29 @@ For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the z
 
 ![MacWrite icon][image-9]
 
-## The Third era: Trying to appear more professional
+## The Third Era: Trying to appear more professional
 ![System Tools for Macintosh SE][image-6]
 
 This label is similar to the FatBits style, but without an application icon on the label and having the Macintosh wordmark set in white text on a black rectangle. These labels appeared in 1987 with the release of the Macintosh SE and Macintosh II and spread to the remainder of Apple's product line. Printed material, such as the Macintosh Owner's Guides, used this design as well. My assumption is that Apple was trying to appear more "professional" to match the target audience of the Macintosh SE and Macintosh II. System 4 and System 5 both use this label design.
 
 Recreating this label was very simple, it did not require stretching text vertically or anything complicated like the Picasso logo or FatBits disks. The only adjustments needed are some kerning tweaks. Since there were no icons, it was only a matter of getting the layout right.
 
-## The Fourth era: System 6
+## The Fourth Era: System 6
 ![System Tools 6.0][image-7]
 
 This label is a further simplification of the System 4/System 5 label design, removing the black rectangle and making the Apple logo smaller (possibly to save on printing costs). These labels were used in the early System 6 era from 1988 through late 1989. Notably, this is the first design that had the System version on the label.
 
 Again, recreating these labels were simple as they focus on typography and only minor kerning adjustments were needed.
 
-## The Fifth era: System 7 and the late System 6 versions
+## The Fifth Era: System 7 and the late System 6 versions
 ![System 7][image-10]
 
 This label is the first design since FatBits that hasn't removed a design element. The major change is the Macintosh wordmark is much larger, is green in color, and is flipped 90 degrees and aligned to the right edge. To emphasize that this is System 7, there is a large number seven that is crossed and inside a box. My recreation of this label is slightly lacking, the real labels have a pixellated shadow below the large number seven. I'll get around to doing it eventually, it's just too much work for me to want to do right now.
 
 This design was also used starting in the late System 6 era of 1990.
 ![System 6][image-11]
+
+## The Sixth Era:
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
