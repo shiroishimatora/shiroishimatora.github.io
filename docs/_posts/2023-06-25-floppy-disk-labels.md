@@ -19,7 +19,7 @@ The next step was to create a new project in Pixelmator Classic. I made a canvas
 ## The First Era: Picasso logo (1984-1985)
 ![System 1 label][image-3]
 
-Apple used this style of label for disks that came bundled with Macintosh 128K and 512K. As far as I can tell, this style was used through System 2.0 in 1985. 
+Apple used this style of label for disks that came bundled with Macintosh 128K and 512K. As far as I can tell, this style was used through System 2.0 in 1985. These were perhaps the most tedious to recreate.
 
 Now that I have a template, I can start creating reproduction floppy disk labels. The first label I made was for a Macintosh System Disk, the kind that uses the Picasso-style Mac logo. I found a few eBay listings for disks in this style and used them as a reference. The first step was to change the spine and rear fill color to red. I then added the copyright text and part number text in white Helvetica and placed them in rough approximation to how they appear on the original label. Text in the spine and rear areas must be rotated 180 degrees so that it appears correctly when the label is printed and applied to the disk. Early Mac disks did have text in the spine area, but I can't find a clear reference picture, so I left it out.
 
@@ -95,9 +95,9 @@ Macintoshes in this era with built-in CD-ROMs shipped their recovery media as a 
 
 This is my least favorite design. Apple started using it in the late System 7.1 era around the time of the PowerBook 500 and through the end of the System 7.5 era. System 7.1 could still be installed from a set of six disks, but System 7.5.3 was so large that it required sixteen disks. Macintosh System Software was increasingly being distributed on CD-ROM, so this lessened the need for a set of floppy disks as recovery media.
 
-Design wise, this is fairly simple: some text, a dotted line, and a mouse cursor with the opacity turned down.
+Design wise, this is fairly simple: some text, a dotted line, and a mouse cursor with the opacity turned down. Easy to recreate.
 
-This really is the last floppy disk label design. Later labels are text-only and don't wrap around to the back (Mac OS 8 Disk Tools floppy).
+This really is the last floppy disk label design that Apple made. Later labels are text-only and don't wrap around to the back (Mac OS 8 Disk Tools floppy, for example).
 
 # Where can I download the labels you've made?
 I'll post them at some point. Ask me privately and I can share them with you if you'd like. The main thing is that I discovered that the labels I made prior to writing this post are subtly *wrong*. As in, the Pixelmator canvas should be 1650 pixels by 1650 pixels. They're all 1699 pixels by 1699 pixels. *This annoys me greatly.* I will need to fix my templates and re-do all of the labels I've made to this point. I'll be able to copy the text boxes over, it's just the proportions and spacing that I will have to tweak to no end to get correct.
