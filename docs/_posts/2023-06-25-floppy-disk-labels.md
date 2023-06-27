@@ -2,7 +2,8 @@
 layout: post
 title:  "Making reproduction floppy disk labels"
 ---
-# INTRODUCTION GOES HERE
+# How I made reproduction Apple floppy disk labels
+I had an idea in 2021 to create and print out some floppy disk labels. Before this, I had been using unlabeled floppy disks or ones with Post-It notes for labels. This was less than ideal as the sticky notes would fall off or get stuck in a Macintosh and unlabeled disks are not particularly useful. I recently acquired a large number of used 3.5" floppy disks, so I had the thought of creating install disk sets for the Macintoshes I commonly use as well as System Software versions I commonly need. A set of System 7.1.1 disks for my PowerBook 540c, for example. And a set of System 7.5.3 disks as well. I realized that I could make a suitable set of labels for the disks and print them out with a cheap inkjet printer. So I ordered a pack of labels from Avery and got to work.
 
 ## Making a label template
 The first step was to measure the front, spine, and rear label areas of a 3.5" floppy disk. The front label area is 2.75 inches wide and 2.125 (2 1/8) inches tall. The spine is 2.75 inches wide and 0.125 (1/8) inches tall. The rear label area is 2.75 inches wide and 0.5 inches tall. The three label areas sum together to form a 2.75 inch square with rounded corners. This makes a single label that wraps from the front to the rear.
@@ -14,7 +15,8 @@ The next step was to create a new project in Pixelmator Classic. I made a canvas
 
 ![Template][image-2]
 
-## The First Era: the Picasso logo (1984-1985)
+# A history of Apple's floppy disk label designs
+## The First Era: Picasso logo (1984-1985)
 ![System 1 label][image-3]
 
 Apple used this style of label for disks that came bundled with Macintosh 128K and 512K. As far as I can tell, this style was used through System 2.0 in 1985. 
@@ -45,7 +47,7 @@ For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the z
 
 ![MacWrite icon][image-9]
 
-## The Third Era: Trying to appear more professional (1987-1988)
+## The Third Era: A more professional appearance (1987-1988)
 ![System Tools for Macintosh SE][image-6]
 
 This label is similar to the FatBits style, but without an application icon on the label and having the Macintosh wordmark set in white text on a black rectangle. These labels appeared in 1987 with the release of the Macintosh SE and Macintosh II and spread to the remainder of Apple's product line. Printed material, such as the Macintosh Owner's Guides, used this design as well. My assumption is that Apple was trying to appear more "professional" to match the target audience of the Macintosh SE and Macintosh II. System 4 and System 5 both use this label design.
@@ -55,7 +57,7 @@ Recreating this label was very simple, it did not require stretching text vertic
 ## The Fourth Era: System 6 (1988-1989)
 ![System Tools 6.0][image-7]
 
-This label is a further simplification of the System 4/System 5 label design, removing the black rectangle and making the Apple logo smaller (possibly to save on printing costs). These labels were used in the early System 6 era from 1988 through late 1989. Notably, this is the first design that had the System version on the label.
+This label is a further simplification of the System 4/System 5 label design, removing the black rectangle and making the Apple logo smaller. I like this quite a bit, they're simple and understated. These labels were used in the early System 6 era from 1988 through late 1989. Notably, this is the first design that had the System version on the label.
 
 Again, recreating these labels were simple as they focus on typography and only minor kerning adjustments were needed.
 
