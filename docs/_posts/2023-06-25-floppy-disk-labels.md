@@ -108,13 +108,16 @@ I'm working on re-making my label templates. I discovered that the labels I made
 
 I made these templates with [Pixelmator Classic](https://www.pixelmator.com/mac/), so the labels are in Pixelmator document format.
 
-Here's the fist template, [Picasso](/assets/attachments/floppy-disk-labels/Picasso.pxm)
+Here are the templates I've re-made so far:
+- [Picasso](/assets/attachments/floppy-disk-labels/Picasso.pxm)
+- [FatBits](/assets/attachments/floppy-disk-labels/FatBits.pxm)
+
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
 [image-3]:	/assets/images/floppy-disk-labels/picasso.jpeg
 [image-4]:	/assets/images/floppy-disk-labels/mw-mp.jpeg
-[image-5]:	/assets/images/floppy-disk-labels/macdraw.jpeg
+[image-5]:	/assets/images/floppy-disk-labels/FatBits.jpeg
 [image-6]:	/assets/images/floppy-disk-labels/system-4.jpeg
 [image-7]:	/assets/images/floppy-disk-labels/system-6-early.jpeg
 [image-8]:	/assets/images/floppy-disk-labels/macwrite-icon-making.jpeg
