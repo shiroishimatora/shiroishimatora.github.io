@@ -100,9 +100,9 @@ Design wise, this is fairly simple: some text, a dotted line, and a mouse cursor
 This really is the last floppy disk label design that Apple made. Later labels are text-only and don't wrap around to the back (Mac OS 8 Disk Tools floppy, for example).
 
 # Where can I download the labels you've made?
-I'll post them at some point. Ask me privately and I can share them with you if you'd like. The main thing is that I discovered that the labels I made prior to writing this post are subtly *wrong*. As in, the Pixelmator canvas should be 1650 pixels by 1650 pixels. They're all 1699 pixels by 1699 pixels. *This annoys me greatly.* I will need to fix my templates and re-do all of the labels I've made to this point. I'll be able to copy the text boxes over, it's just the proportions and spacing that I will have to tweak to no end to get correct.
+I'm working on re-making my label templates. I discovered that the labels I made prior to writing this post are subtly *wrong*. Specifically, the template's canvas should be eactly 1650 pixels by 1650 pixels. My existing templates are 1699 pixels by 1699 pixels. *This annoys me greatly.* I will need to fix this before I share my templates.
 
-I made these templates with Pixelmator Classic.
+I made these templates with [Pixelmator Classic](https://www.pixelmator.com/mac/), so the labels are in Pixelmator document format.
 
 Here's the fist template, [Picasso](/assets/attachments/floppy-disk-labels/Picasso.pxm)
 
