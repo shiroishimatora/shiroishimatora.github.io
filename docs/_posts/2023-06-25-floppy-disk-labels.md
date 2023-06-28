@@ -102,6 +102,8 @@ This really is the last floppy disk label design that Apple made. Later labels a
 # Where can I download the labels you've made?
 I'll post them at some point. Ask me privately and I can share them with you if you'd like. The main thing is that I discovered that the labels I made prior to writing this post are subtly *wrong*. As in, the Pixelmator canvas should be 1650 pixels by 1650 pixels. They're all 1699 pixels by 1699 pixels. *This annoys me greatly.* I will need to fix my templates and re-do all of the labels I've made to this point. I'll be able to copy the text boxes over, it's just the proportions and spacing that I will have to tweak to no end to get correct.
 
+Here's the fist template, [Picasso](/assets/attachments/floppy-disk-labels/Picasso.pxm)
+
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
 [image-2]:	/assets/images/floppy-disk-labels/template.jpeg
 [image-3]:	/assets/images/floppy-disk-labels/system-1.jpeg
