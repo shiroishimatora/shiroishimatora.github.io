@@ -111,6 +111,7 @@ I made these templates with [Pixelmator Classic](https://www.pixelmator.com/mac/
 Here are the templates I've re-made so far:
 - [Picasso](/assets/attachments/floppy-disk-labels/Picasso.pxm)
 - [FatBits](/assets/attachments/floppy-disk-labels/FatBits.pxm)
+- [FatBits](/assets/attachments/floppy-disk-labels/black-box.pxm)
 
 And a selection of specific disk labels:
 - [MacWrite • MacPaint](/assets/attachments/floppy-disk-labels/mw-mp.pxm)
@@ -121,7 +122,7 @@ And a selection of specific disk labels:
 [image-3]:	/assets/images/floppy-disk-labels/picasso.jpeg
 [image-4]:	/assets/images/floppy-disk-labels/mw-mp.jpeg
 [image-5]:	/assets/images/floppy-disk-labels/FatBits.jpeg
-[image-6]:	/assets/images/floppy-disk-labels/system-4.jpeg
+[image-6]:	/assets/images/floppy-disk-labels/black-box.jpeg
 [image-7]:	/assets/images/floppy-disk-labels/system-6-early.jpeg
 [image-8]:	/assets/images/floppy-disk-labels/macwrite-icon-making.jpeg
 [image-9]:	/assets/images/floppy-disk-labels/macwrite-icon.jpeg
