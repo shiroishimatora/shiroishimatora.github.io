@@ -111,6 +111,7 @@ I made these templates with [Pixelmator Classic](https://www.pixelmator.com/mac/
 Here are the templates I've re-made so far:
 - [Picasso](/assets/attachments/floppy-disk-labels/Picasso.pxm)
 - [FatBits](/assets/attachments/floppy-disk-labels/FatBits.pxm)
+- [MacWrite • MacPaint](/assets/attachments/floppy-disk-labels/mw-mp.pxm)
 
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
