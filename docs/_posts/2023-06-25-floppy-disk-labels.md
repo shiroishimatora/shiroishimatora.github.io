@@ -52,11 +52,11 @@ For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the z
 ![MacWrite icon][image-9]
 
 # The Third Era: A more professional appearance (1987-1988)
-![System Tools for Macintosh SE][image-6]
+![Black Box][image-6]
 
 This label is similar to the FatBits style, but without an application icon on the label and having the Macintosh wordmark set in white text on a black rectangle. These labels appeared in 1987 with the release of the Macintosh SE and Macintosh II and spread to the remainder of Apple's product line. Printed material, such as the Macintosh Owner's Guides, used this design as well. My assumption is that Apple was trying to appear more "professional" to match the target audience of the Macintosh SE and Macintosh II. System 4 and System 5 both use this label design.
 
-Recreating this label was very simple, it did not require stretching text vertically or anything complicated like the Picasso logo or FatBits disks. The only adjustments needed are some kerning tweaks. Since there were no icons, it was only a matter of getting the layout right.
+Recreating this label was very simple, it did not require stretching text vertically or anything complicated like the Picasso logo or FatBits disks. The only adjustments needed are some kerning tweaks and the use of Helvetica Condensed for the copyright text and part number. Since there were no icons, it was only a matter of getting the layout right.
 
 # The Fourth Era: System 6 (1988-1989)
 ![System Tools 6.0][image-7]
