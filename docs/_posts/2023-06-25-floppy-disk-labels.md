@@ -51,6 +51,11 @@ For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the z
 
 ![MacWrite icon][image-9]
 
+**Bonus: Through the Looking Glass**
+Based on a photo of the real label, I tried to clean up the text and icon to the best of my (limited) abilities
+
+![Through The Looking Glass][image-18]
+
 # The Third Era: A more professional appearance (1987-1988)
 ![Black Box][image-6]
 
@@ -116,6 +121,7 @@ Here are the templates I've re-made so far:
 
 And a selection of specific disk labels:
 - [MacWrite • MacPaint](/assets/attachments/floppy-disk-labels/mw-mp.pxm)
+- [Through the Looking Glass](/assets/attachments/floppy-disk-labels/alice.pxm)
 
 
 [image-1]:	/assets/images/floppy-disk-labels/label-area-size.jpeg
@@ -135,3 +141,4 @@ And a selection of specific disk labels:
 [image-15]:	/assets/images/floppy-disk-labels/powerbook-duo.jpeg
 [image-16]:	/assets/images/floppy-disk-labels/system-7.5.jpeg
 [Image-17]: /assets/images/floppy-disk-labels/typography.jpeg
+[image-18]: /assets/images/floppy-disk-labels/alice.jpeg
