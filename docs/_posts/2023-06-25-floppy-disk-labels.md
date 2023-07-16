@@ -52,7 +52,7 @@ For the icons, I made a 32x32 pixel canvas in Pixelmator Pro and increased the z
 ![MacWrite icon][image-9]
 
 **Bonus: Through the Looking Glass**
-Based on a photo of the real label, I tried to clean up the text and icon to the best of my (limited) abilities
+Based on a photo of the real label, I tried to clean up the text and icon to the best of my (limited) abilities.
 
 ![Through The Looking Glass][image-18]
 
